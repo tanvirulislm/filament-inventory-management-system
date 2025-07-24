@@ -41,7 +41,7 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/filament-inventory-management-system.git](https://github.com/your-username/filament-inventory-system.git)
+git clone [https://github.com/tanvirulislm/filament-inventory-management-system.git](https://github.com/your-username/filament-inventory-system.git)
 cd filament-inventory-system
 ```
 
